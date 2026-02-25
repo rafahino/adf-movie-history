@@ -1,0 +1,9 @@
+{
+	"name": "databricks-courserh-with-adf",
+	"location": "mexicocentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bc118105-4343-404e-b1df-290ea5287afa",
+		"tenantId": "ff31d2c0-37d0-4aa0-bde4-cf7efc75abbc"
+	}
+}
